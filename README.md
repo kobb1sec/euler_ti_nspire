@@ -39,16 +39,17 @@ The asnwer is __we can still do it__ by using `math` library. `Math` library is 
 
    ![image2](https://github.com/kobb1sec/euler_ti_nspire/assets/65459136/84a6a421-209d-4ded-8819-5ef928d8be3e)
 3. You will the exaxt the same screen as I do. __DO NOT EDIT THE CODE UNLESS YOU ENSURE WHAT YOU ARE DOING!__
+   
    ![image3](https://github.com/kobb1sec/euler_ti_nspire/assets/65459136/a797e9aa-6ed6-445c-9901-1f14fca3a8fb)
-4. To run the code, press `ctrl + R`. It will open the next page in the same file and you will see that thing:
+5. To run the code, press `ctrl + R`. It will open the next page in the same file and you will see that thing:
    ![image4](https://github.com/kobb1sec/euler_ti_nspire/assets/65459136/01616e62-3777-4723-8cf4-f9f76a87a185)
-5. Enter the following:
+6. Enter the following:
    * Initial $x$ value
    * Initial $y$ value
    * Step size
    * Number of steps
    * Differential equation in [LaTeX](https://en.wikibooks.org/wiki/LaTeX/Mathematics) notation
-6. Then, you will see the magic with something like this:
+7. Then, you will see the magic with something like this:
   
    ![image5](https://github.com/kobb1sec/euler_ti_nspire/assets/65459136/0b474bea-e5e6-433f-8d5a-2d1ea2c2918d)
 
