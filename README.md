@@ -29,7 +29,7 @@ There are also features, such as:
 ## How to use the Python code:
 The usage of the code is a bit different from what we can do on calculator. For example, to put $\sqrt{x}$ we press `ctrl` + $x^2$. In this code we cannot use it as it does not recognise the expressions from built-in functions from TI-Nspire. Hence, there is a question, how to input complex functions such as $e^x$? 
 
-The asnwer is __we can still do it!__ by using `math` library. `Math` library is very useful but it is a bit difficult to use for the first time but practice is a very good friend! It uses [LaTeX](https://en.wikibooks.org/wiki/LaTeX/Mathematics) notations.
+The asnwer is __we can still do it__ by using `math` library. `Math` library is very useful but it is a bit difficult to use for the first time but practice is a very good friend! It uses [LaTeX](https://en.wikibooks.org/wiki/LaTeX/Mathematics) notations.
 
 #### Running the code
 1. Turn on calculator and press `2` to `Browse` the file in the `Home` screen:
