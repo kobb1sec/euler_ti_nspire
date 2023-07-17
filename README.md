@@ -27,4 +27,23 @@ There are also features, such as:
 3. Click on `Transfer Files` and select the file from the computer to the device. Once it is done, the pop-up message will be displayed on your calculator. __Enjoy!__
 
 ## How to use the Python code:
+The usage of the code is a bit different from what we can do on calculator. For example, to put $\sqrt{x}$ we press `ctrl` + $x^2$. In this code we cannot use it as it does not recognise the expressions from built-in functions from TI-Nspire. Hence, there is a question, how to input complex functions such as $e^x$? 
+
+The asnwer is __we can still do it!__ by using `math` library. `Math` library is very useful but it is a bit difficult to use for the first time but practice is a very good friend! It uses [LaTeX](https://en.wikibooks.org/wiki/LaTeX/Mathematics) notations.
+
+#### Running the code
+1. Turn on calculator and press `2` to `Browse` ![image1](https://github.com/kobb1sec/euler_ti_nspire/assets/65459136/cd59cc0b-f570-45d5-afda-7f9d9fd08e1f)
+2. Find `Euler's Method_Spesh` by pressing `Enter` ![image2](https://github.com/kobb1sec/euler_ti_nspire/assets/65459136/84a6a421-209d-4ded-8819-5ef928d8be3e)
+3. You will the exaxt the same screen as I do. __DO NOT EDIT THE CODE UNLESS YOU ENSURE WHAT YOU ARE DOING!__ ![image3](https://github.com/kobb1sec/euler_ti_nspire/assets/65459136/a797e9aa-6ed6-445c-9901-1f14fca3a8fb)
+4. To run the code, press `ctrl + R`. It will open the next page in the same file and you will see that thing: ![image4](https://github.com/kobb1sec/euler_ti_nspire/assets/65459136/01616e62-3777-4723-8cf4-f9f76a87a185)
+5. Enter the following:
+   * Initial $x$ value
+   * Initial $y$ value
+   * Step size
+   * Number of steps
+   * Differential equation in [LaTeX](https://en.wikibooks.org/wiki/LaTeX/Mathematics) notation
+6. Then, you will see the magic with something like this: ![image5](https://github.com/kobb1sec/euler_ti_nspire/assets/65459136/0b474bea-e5e6-433f-8d5a-2d1ea2c2918d)
+
+
+
 
